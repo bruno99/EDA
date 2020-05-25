@@ -1,0 +1,12 @@
+2.- Programar una clase que contenga una lista doblemente enlazada de nodos que contengan como información un valor entero.
+Dicha clase debe crear los nodos mediante reserva dinámica de memoria y debe tener implementado, como mínimo, los siguientes
+métodos   públicos:   ( 8,5   puntos ) 
+●Insertar   nodo   por   referencia   en   lista   vacía   ( 0.5   puntos ) 
+●Insertar   nodo   por   referencia   al   final   de   la   lista   ( 0.5   puntos )
+●Imprimir   por   pantalla   el   contenido   de   la   lista   ( 0.5   puntos ) 
+●Suprimir nodo por valor, además devolverá true si ha encontrado el nodo y   false   si   no   lo   ha   encontrado   ( 1   punto ) 
+●Busca un nodo por valor de manera recursiva, retornando su dirección ( 1.5   puntos ) 
+●Suma todos los elementos de la lista de manera recursiva, retornando el resultado   de   la   suma   ( 1.5   puntos ) 
+●Elimina   un   nodo   por   valor   de   manera   recursiva   ( 1.5   puntos ) 
+●Eliminar completamente la lista doblemente enlazada de manera recursiva   ( 1.5   puntos ) 
+En el main.cpp crea una pequeña lista y comprueba el correcto funcionamiento de los métodos   implementados.
