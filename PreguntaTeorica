@@ -1,0 +1,6 @@
+Array   Lista simplemente enlazada  Lista doblemente enlazada
+Acceso por indice           O(1)            O(n)                        O(n)
+Insertar/Borrar al final    O(1)            O(n)                        O(1)
+Insertar/eliminar mitad     O(n)            O(n)                        O(n)
+Insertar/eliminar principio O(n)            O(1)                        O(1)
+Buscar valor                O(n)            O(n)                        O(n)
